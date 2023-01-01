@@ -1,0 +1,23 @@
+.container-fluid{
+    justify-content: space-between !important;
+    
+
+
+}
+@media (max-width: 990px){
+    .card-body img{
+ width: 250px !important;
+     height:250px !important;
+    }
+   
+    }
+
+
+
+
+
+
+
+
+
+
